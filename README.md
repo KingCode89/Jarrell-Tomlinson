@@ -1,6 +1,6 @@
 # Sup, I’m Jarrell — Aspiring Data & Tech Professional
 Business Intelligence • Analytics • Python • SQL • Data Visualization
-www.linkedin.com/in/jarrell-tomlinson file:///D:/Jarrell%20Tomlinson%20Tech%20Resume%20PDF.pdf
+www.linkedin.com/in/jarrell-tomlinson D:/Jarrell%20Tomlinson%20Tech%20Resume%20PDF.pdf
 jarrelltomlinson@gmail.com
 
 👋 About Me
