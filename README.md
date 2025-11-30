@@ -5,11 +5,11 @@ jarrelltomlinson@gmail.com
 
 👋 About Me
 
-I’m someone who unexpectedly found a passion for technology. As the tech world grew, I wanted to understand it well enough to stay competitive — and eventually discovered I genuinely enjoy working with data.
+I’m someone who unexpectedly found a passion for technology. As the tech world grows, I want to understand it well enough to stay competitive — and eventually discovered I genuinely enjoy working with data.
 
 My journey led me to the Business Intelligence Analytics program at TripleTen, where I’ve been developing skills in Python, SQL, Power BI, Tableau, and data-driven decision-making. I’m finishing the program soon and continuing my growth by taking AI courses this Spring.
 
-Before tech, I earned my MBA from Strayer University and a Business Administration degree (Management concentration) from East Carolina University — go ECU!
+Before tech, I earned my MBA from Strayer University and a Business Administration degree (Management concentration) from East Carolina University — go ECU !
 
 🔧 Primary Tech Skills
 
